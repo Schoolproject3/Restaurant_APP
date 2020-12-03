@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119296696085",
+    "firebase_url": "https://ordering-app-d9537.firebaseio.com",
+    "project_id": "ordering-app-d9537",
+    "storage_bucket": "ordering-app-d9537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119296696085:android:6daf28dc72d8ee092a531c",
+        "android_client_info": {
+          "package_name": "com.example.orderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119296696085-5u2rga7do2d7hgjc63tl5brb458utnsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7AoUp6Sv2NU6qQbiX0r9zk4hVQYP45Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119296696085-5u2rga7do2d7hgjc63tl5brb458utnsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
